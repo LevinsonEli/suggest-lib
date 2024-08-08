@@ -4,7 +4,7 @@
 
 `suggest-lib` is a Maven-based Java library project. This repository provides a multi-branch pipeline setup to manage different stages of development and release processes using Jenkins and Maven. It also serves as a dependency for the project [toxictypo-app](https://github.com/LevinsonEli/toxictypo-app)
 
-#MVN #Jenkins #JFrog #Artifactory #AWS #CI #DependencyManagement
+**#MVN #Jenkins #JFrog #Artifactory #AWS #CI #DependencyManagement**
 
 ## Goals of suggest-lib Multi-Branch Pipeline
 
